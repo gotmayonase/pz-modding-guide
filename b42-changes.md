@@ -86,16 +86,7 @@ craftRecipe MakeWoodenPlank
 
 ---
 
-## Minor Breaking Changes by Sub-Version
-
-### 42.15
-- **Translation files changed format.** Old: `.txt` files with language code in filename (`ItemName_EN.txt`). New: `.json` files without language code (`ItemName.json`), all UTF-8. Any mod with the old format will have broken translations in 42.15+.
-- Fixed: mod folder detection — only one of `common/` or `42/` needs to exist.
-- Added: `.glb` model file support in mod watcher.
-
-### 42.14
-- `Base.223Bullets`, `Base.BoxBullets223`, `Base.CartonBullets223` removed. Replaced with 5.56 equivalents. Only affects ammo mods.
-- New thread-equivalent items added: `Base.DentalFloss`, `Base.FishingLine` now accepted by `tags[base:thread]`.
+For per-patch modding changes after the initial B42 release, see the [Version Changelog](version-changelog.md).
 
 ---
 

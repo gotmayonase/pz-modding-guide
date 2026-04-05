@@ -19,6 +19,7 @@ A practical, ground-up guide to modding Project Zomboid targeting **Build 42.15+
 9. [Key Gotchas and Verified IDs](gotchas.md) — item IDs, skill names, tags, script properties
 10. [Testing Workflow](testing.md) — setup, debug console, quick iteration
 11. [Resources](resources.md) — official docs, community tools, reference mods
+12. [Modding API Changes by Version](version-changelog.md) — per-patch changelog of modding-relevant changes
 
 ---
 
